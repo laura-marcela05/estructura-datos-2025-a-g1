@@ -1,4 +1,4 @@
-***Estructura de Datos 2025 - Grupo A G1***
+## Estructura de Datos 2025 - Grupo A G1
 
 Este repositorio contiene material relacionado con el curso de Estructura de Datos del año 2025, incluyendo parciales, quizzes y documentos de referencia.
 
@@ -7,7 +7,7 @@ Laura Marcela Quintero
 
 ---
 
-**Significado de los iconos en los commits**
+## Significado de los iconos en los commits
 
 Los commits en GitHub pueden tener diferentes iconos, que indican el tipo de cambio realizado en cada archivo. Aquí algunos ejemplos comunes:
 
@@ -15,7 +15,8 @@ Los commits en GitHub pueden tener diferentes iconos, que indican el tipo de cam
 📄 Documento agregado  
 📂 Carpeta con archivos
 📝 Documento escrito a mano
-🗑️ Eliminar algun archivo o carpeta
+🗑️ Eliminar algún archivo o carpeta
+🔧 Arreglo de .md
 
 
 
@@ -27,7 +28,7 @@ Los commits en GitHub pueden tener diferentes iconos, que indican el tipo de cam
 - **Línea de tiempo= Evolución computadora.pdf** → Documento sobre la evolución de las computadoras.  
 - **consulta lenguaje de programación.pdf** → Información sobre diferentes lenguajes de programación.  
 - **C1A1 Taller de Conceptos.txt** → Archivo de texto con el taller de conceptos. 
-- **Taller-Pilares → Carpeta con material sobre el taller de los pilares de Programación Orientada a Objetos (POO).
+- **Taller-Pilares** → Carpeta con material sobre el taller de los pilares de Programación Orientada a Objetos (POO).
 
 ---
 
