@@ -29,7 +29,7 @@ Los commits en GitHub pueden tener diferentes iconos, que indican el tipo de cam
 - **consulta lenguaje de programación.pdf** → Información sobre diferentes lenguajes de programación.  
 - **C1A1 Taller de Conceptos.txt** → Archivo de texto con el taller de conceptos. 
 - **Taller-Pilares** → Carpeta con material sobre el taller de los pilares de Programación Orientada a Objetos (POO).
-
+- **Proyecto_de_evidencia_Part1 y Proyecto_de_evidencia_Part2** → Carpetas con material sobre el proeyecto de evidencia: Poo Aplicada a Animales
 ---
 
 ¡Este repositorio será actualizado con más material a lo largo del curso! 
